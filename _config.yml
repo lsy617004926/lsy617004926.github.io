@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &siyangliu20
 facebook:
   username               :
   app_id                 :
@@ -83,7 +83,7 @@ author:
   name             : "Siyang Liu"
   avatar           : "profile.png"
   bio              : "Siyang liu is a undergraduate student studied in USTC"
-  location         : "Location"
+  location         : "Hefei Anhui"
   employer         :
   googlescholar    : ""
   email            :
@@ -102,13 +102,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+#  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+#  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "siyangliu20"
   vine             :
   weibo            :
   xing             :
