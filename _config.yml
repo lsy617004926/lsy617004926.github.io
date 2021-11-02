@@ -243,7 +243,27 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+      
+  # _public goods
+  - scope:
+      path: ""
+      type: 
+    values:
+      layout: 
+      author_profile: true
+      share: true
+            
+  # _research
+  - scope:
+      path: ""
+      type: 
+    values:
+      layout: 
+      author_profile: true
+      share: true
+      
+      
+      
 # Sass/SCSS
 sass:
   sass_dir: _sass
