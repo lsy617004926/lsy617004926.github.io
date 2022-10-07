@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-<!-- * BEcon in Finance, University of Science and Technology of China, 2018 - 2022 -->
+* BEcon in Finance, University of Science and Technology of China, 2018 - 2022
 
 Work experience
 ======
