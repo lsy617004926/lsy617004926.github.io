@@ -46,15 +46,15 @@ Skills
 Research
 ======
 <!-- <ul>{(https://github.com/lsy617004926/lsy617004926.github.io/blob/master/files/Research%20on%20Chinese%20stock%20market%20return%20predictability.pdf)}</ul> -->
+https://github.com/lsy617004926/lsy617004926.github.io/blob/master/files/Research%20on%20Chinese%20stock%20market%20return%20predictability.pdf
+* <a href="https://github.com/lsy617004926/lsy617004926.github.io/blob/master/files/Research%20on%20Chinese%20stock%20market%20return%20predictability.pdf" title="Research on Chinese stock market return predictability"/a>
+  * sub1
+  * sub1
+* <a href="https://github.com/lsy617004926/lsy617004926.github.io/blob/master/files/The%20Effect%20of%20Audit%20Failure%20on%20SEC%20Monitoring%20of%20Peer%20Firm%20end%20version.pdf" title="The Effect of Audit Failure on SEC Monitoring of Peer Firm end version"/a>
+  * sub1
+  * sub1
 
-* <a href="http://www.baidu.com" title="Baidu1"/a>
-  * sub1
-  * sub1
-* <a href="http://www.baidu.com" title="Baidu2"/a>
-  * sub1
-  * sub1
-
-* <a href="http://www.baidu.com" title="Baidu3"/a>
+* <a href="https://github.com/lsy617004926/lsy617004926.github.io/blob/master/files/TPU-on-RV-version-quarterly-china-douer-ranyou.html" title="TPU-on-RV-version-quarterly-china"/a>
   * sub1
   * sub1
   
