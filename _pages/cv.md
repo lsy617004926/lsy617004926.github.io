@@ -45,7 +45,7 @@ Skills
 
 Research
 ======
-* <a href="https://github.com/lsy617004926/lsy617004926.github.io/blob/master/files/Research%20on%20Chinese%20stock%20market%20return%20predictability.pdf" title="Research on Chinese stock market return predictability (in Chinese)"/a>
+* [Research on Chinese stock market return predictability (in Chinese)](https://github.com/lsy617004926/lsy617004926.github.io/blob/master/files/Research%20on%20Chinese%20stock%20market%20return%20predictability.pdf)
   * Iinvestigated both in-sample and out-of-sample return predictabilities in China with various economic indicators and market anomalies.
   * In-sample test showed only turnover indicator lost its predictability. For the out-of-sample predictability, most economic indicators lost their predictabilities. 
   * Used various machine learning methods to enhance forecast abilities. The best forecast method varied among sample periods, implying the instability of the model. 
