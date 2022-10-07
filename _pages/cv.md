@@ -34,7 +34,16 @@ Working experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub -->
-  
+
+Teaching Experience
+======
+* Microeconomics Fall 2020 Sep.2020-Jan.2021
+  * Instructor: Prof. Yaping Zhou (Dept of Business Administration, USTC) 
+  * Evaluation:4.3
+* Microeconomics Fall 2021 Sep.2021-Jan.2022
+  * Instructor: Prof. Yaping Zhou (Dept of Business Administration, USTC) 
+  * Evaluation:4.75
+
 Skills
 ======
 * Programming
@@ -73,14 +82,6 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
   
-Teaching Experience
-======
-* Microeconomics Fall 2020 Sep.2020-Jan.2021
-  * Instructor: Prof. Yaping Zhou (Dept of Business Administration, USTC) 
-  * Evaluation:4.3
-* Microeconomics Fall 2021 Sep.2021-Jan.2022
-  * Instructor: Prof. Yaping Zhou (Dept of Business Administration, USTC) 
-  * Evaluation:4.75
 
 <!--   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
