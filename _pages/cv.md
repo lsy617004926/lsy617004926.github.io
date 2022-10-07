@@ -14,7 +14,7 @@ Education
   * BEcon in Finance, University of Science and Technology of China, 2018 - 2022
   * Rank: 9/56 (top 20%)
 
-Work experience
+Working experience
 ======
   * Feb. 2022- June. 2022: Quant Researcher Intern
     * Mengxi Investment, Shanghai, China 
@@ -47,9 +47,12 @@ Skills
 
 Research
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
+<ul>{[% for post in site.talks %](https://github.com/lsy617004926/lsy617004926.github.io/blob/master/files/Research%20on%20Chinese%20stock%20market%20return%20predictability.pdf)}
   {% endfor %}</ul>
+  
+<!--   <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul> -->
   
 <!--   
 Talks
