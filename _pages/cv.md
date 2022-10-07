@@ -47,7 +47,7 @@ Skills
 
 Research
 ======
-<ul>{[% for post in site.talks %](https://github.com/lsy617004926/lsy617004926.github.io/blob/master/files/Research%20on%20Chinese%20stock%20market%20return%20predictability.pdf)}
+<ul>{(https://github.com/lsy617004926/lsy617004926.github.io/blob/master/files/Research%20on%20Chinese%20stock%20market%20return%20predictability.pdf)}
   {% endfor %}</ul>
   
 <!--   <ul>{% for post in site.publications %}
