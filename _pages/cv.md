@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
   * BEcon in Finance, University of Science and Technology of China, 2018 - 2022
+  * Rank: 9/56 (top 20%)
 
 Work experience
 ======
@@ -40,13 +41,11 @@ Skills
   * Python(NumPy, pandas, PyTorch, DEAP)
   * R(tidyverse, Rmarkdown, base R)
   * Stata
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* LaTeX
 * Skill 3
+  * Sub-skill 2.1
 
-Publications
+Research
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -59,12 +58,20 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
   
-Teaching
+Teaching Experience
 ======
-  <ul>{% for post in site.teaching %}
+* Microeconomics Fall 2020 Sep.2020-Jan.2021
+  * Instructor: Prof. Yaping Zhou (Dept of Business Administration, USTC) 
+  * Evaluation:4.3
+* Microeconomics Fall 2021 Sep.2021-Jan.2022
+  * Instructor: Prof. Yaping Zhou (Dept of Business Administration, USTC) 
+  * Evaluation:4.75
+
+<!--   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
-======
+  
+<!-- Service and leadership
+====== -->
 <!-- * Currently signed in to 43 different slack teams -->
