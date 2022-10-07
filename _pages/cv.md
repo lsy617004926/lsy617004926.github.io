@@ -45,7 +45,8 @@ Skills
 
 Research
 ======
-<ul>{(https://github.com/lsy617004926/lsy617004926.github.io/blob/master/files/Research%20on%20Chinese%20stock%20market%20return%20predictability.pdf)}</ul>
+<!-- <ul>{(https://github.com/lsy617004926/lsy617004926.github.io/blob/master/files/Research%20on%20Chinese%20stock%20market%20return%20predictability.pdf)}</ul> -->
+
 * <a href="http://www.baidu.com" title="Baidu1"/a>
   * sub1
   * sub1
@@ -56,6 +57,7 @@ Research
 * <a href="http://www.baidu.com" title="Baidu3"/a>
   * sub1
   * sub1
+  
 <!--   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
