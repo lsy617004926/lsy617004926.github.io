@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Siyang Liu, wellcome to my webpage!
+Hi! I’m Siyang Liu, welcome to my webpage!
 
 My background and history
 ======
