@@ -19,11 +19,14 @@ Working experience
   * Feb. 2022- June. 2022: Quant Researcher Intern
     * Mengxi Investment, Shanghai, China 
 
-  * July. 2022- now: Quant Researcher
+  * July. 2022- January. 2023: Quant Researcher
     * Mengxi Investment, Shanghai, China
     * Exploring market microstructure features that predict short term return of the futures.
     * Using genetic algorithms to generate useful features for market taking strategies to make profitable trades.
     * Applying various machine leaning algorithms to better predict feature returns.
+   
+  * Februrary. 2023- August. 2023: Quant Researcher
+    * Jiuqian Investment, Shanghai, China
 
 <!-- * Summer 2015: Research Assistant
   * Github University
