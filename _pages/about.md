@@ -12,7 +12,7 @@ Hi! I’m Siyang Liu, welcome to my webpage!
 
 My background and history
 ======
-I received my Bachelor of Economics in Finance from the University of Science and Technology of China. After graduating, I joined a proprietary division of a hedge fund to research high-frequency trading strategies. Currently, I am a Master's student in Finance at the UBC Sauder School of Business.
+I received my Bachelor of Economics in Finance from the University of Science and Technology of China. After graduating, I joined a proprietary division of a hedge fund, where I researched high-frequency trading strategies and alpha strategies in the Chinese stock market. Currently, I am pursuing a Master’s degree in Finance at the UBC Sauder School of Business.
 
 My study interest
 ======
