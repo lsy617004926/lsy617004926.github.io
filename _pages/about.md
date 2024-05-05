@@ -16,7 +16,7 @@ I received my Bachelor of Economics in Finance from the University of Science an
 
 My study interest
 ======
-I'm currently interested in both emperical and theory asset pricing research.
+I'm currently interested in asset pricing research, both empirical and theoretical.
 
 
 
