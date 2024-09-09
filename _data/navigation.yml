@@ -12,8 +12,8 @@ main:
 #   - title: "Research"
 #     url: /research/   
     
-#   - title: "Public Goods"
-#     url: /public goods/   
+  - title: "Public Goods"
+    url: /public goods/   
     
 #  - title: "Portfolio"
 #    url: /portfolio/
