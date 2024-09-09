@@ -41,22 +41,22 @@ redirect_from:
 
 ## Research Experience
 
-- **Research Assistant** for Prof. Lorenzo Garlappi and Prof. Ali Lazrak – University of British Columbia  
+- **Research Assistant** for [Prof. Lorenzo Garlappi](https://sites.google.com/site/lorenzogarlappi/) and [Prof. Ali Lazrak](https://sites.google.com/view/ali-lazrak) – University of British Columbia  
   *Apr. 2024 – Oct. 2024*
 
-- **Research Assistant** for Prof. Ella D.S. Patelli, Prof. Ron Giammarino, and Prof. Jack Favilukis – University of British Columbia  
+- **Research Assistant** for [Prof. Ella D.S. Patelli](https://sites.google.com/view/ella-ds-patelli/accueil), [Prof. Ron Giammarino](https://org-www.sauder.ubc.ca/people/ron-giammarino), and [Prof. Jack Favilukis](https://sites.google.com/site/jackfavilukis/home) – University of British Columbia  
   *Jul. 2024 – Sep. 2024*
 
 - **Thesis** – Research on Chinese Stock Market Return Predictability – University of Science and Technology of China  
   *Feb. 2022 – Apr. 2022*  
-  **Advisor:** Prof. Yulong Sun  
+  **Advisor:** [Prof. Yulong Sun](https://sites.google.com/view/yulongsun/)  
   - Modeled the Chinese stock market using methods based on Goyal and Welch (2008).
   - Found most predictors to perform poorly out-of-sample, though some showed promise.
   - Employed machine learning techniques to improve forecasting performance.
 
 - **Research Program** – The Effect of Audit Failure on SEC Monitoring of Peer Firms – University of Science and Technology of China  
   *Jul. 2020 – May 2021*  
-  **Advisor:** Prof. Yue He  
+  **Advisor:** [Prof. Yue He](https://bs.ustc.edu.cn/english/profile-548.html)  
   - Investigated how the SEC monitors firms audited by offices involved in audit failures, showing peer disclosures influence SEC intensity.
 
 ## Honors & Awards
@@ -91,3 +91,6 @@ redirect_from:
 - **Programming:** Python (Proficient), R (Familiar), Julia (Familiar), Stata (Familiar), SAS (Basic), LaTeX, SQL
 - **CS-related Skills:** Deep Learning, Machine Learning, Web Scraping, Natural Language Processing
 
+---
+
+Let me know if this works!
