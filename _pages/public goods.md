@@ -8,95 +8,65 @@ author_profile: true
 
 {% include base_path %}
 
-# Siyang Liu
+# Public Goods
 
-**Email:** lsy9911@student.ubc.ca | **Phone:** +1 236-965-6487 | **GitHub:** [Siyang Liu](https://github.com/lsy617004926)
+- Welcome to my Public Goods page! Here, I maintain a list of wonderful lecture notes and courses from professors at various universities in finance, economics, and computer science (mostly PhD-level courses) that have greatly benefited me. This is my way of supporting an open academic environment. If you find any errors, please feel free to contact me.
 
-## Education
+## Finance
 
-- **M.Sc. in Business Administration (Finance)** – University of British Columbia, Vancouver  
-  *Sep. 2023 – Present*  
-  **GPA:** 4.32/4.33
-- **B.Econ in Finance** – University of Science and Technology of China, Anhui, China  
-  *Sep. 2018 – May 2022*  
+- [Empirical Asset Pricing - Ralph S.J. Koijen, University of Chicago](https://www.koijen.net/empirical-asset-pricing-notes.html)
+- [Teaching Notes - John H. Cochrane, Hoover Institution](https://www.johnhcochrane.com/teaching)
+- [Asset Pricing - John H. Cochrane, Hoover Institution](https://www.johnhcochrane.com/asset-pricing)
+- [Asset Pricing - Tarek Alexander Hassan, Boston University](https://www.tarekhassan.net/international-macroeconomics-and-finance-35915)
+- [Asset Pricing I - Markus K. Brunnermeier, Princeton University](https://markus.scholar.princeton.edu/classes/fin501)
+- [Empirical Methods in Corporate Finance - Todd Gormley, University of Pennsylvania](http://www.gormley.info/phd-notes.html)
+- [Corporate Finance and Financial Institutions - Itay Goldstein, University of Pennsylvania](https://finance.wharton.upenn.edu/~itayg/#PhD)
+- [Topics in Dynamic Asset Pricing - Pietro Veronesi, University of Chicago](https://faculty.chicagobooth.edu/pietro-veronesi/teaching/bus-35907)
+- [Introduction to Asset Pricing - Hengjie Ai, University of Wisconsin-Madison](https://www.hengjieai.com/intro-to-ap.html)
+- [Behavioral Finance - Augustin Landier, HEC Paris](https://sites.google.com/site/augustinlandier/teaching-notes)
+- [Financial Economics - Kasa Kenneth, Simon Fraser University](https://www.sfu.ca/~kkasa/econ2021_18.htm)
 
-## Research Experience
+## Economics
 
-- **Research Assistant** for [Prof. Lorenzo Garlappi](https://sites.google.com/site/lorenzogarlappi/) and [Prof. Ali Lazrak](https://sites.google.com/view/ali-lazrak) – University of British Columbia  
-  *Apr. 2024 – Present*
+### Econometrics
 
-- **Research Assistant** for [Prof. Ella D.S. Patelli](https://sites.google.com/view/ella-ds-patelli/accueil), [Prof. Ron Giammarino](https://org-www.sauder.ubc.ca/people/ron-giammarino), and [Prof. Jack Favilukis](https://sites.google.com/site/jackfavilukis/home) – University of British Columbia  
-  *Jul. 2024 – Present*
+- [Econometrics  - Gary Chamberlain, Harvard University (by Paul Goldsmith-Pinkham)](https://github.com/paulgp/GaryChamberlainLectureNotes)
+- [Applied Empirical Methods - Paul Goldsmith-Pinkham, Yale University](https://github.com/paulgp/applied-methods-phd)
+- [Econometric Theory II - Vadim Marmer, University of British Columbia](https://vadimmarmer.com/teaching/2020-01-Econ-627)
 
-- **Thesis** – Research on Chinese Stock Market Return Predictability – University of Science and Technology of China  
-  *Feb. 2022 – Apr. 2022*  
-  **Advisor:** [Prof. Yulong Sun](https://sites.google.com/view/yulongsun/)  
-  - Modeled the Chinese stock market using methods based on Goyal and Welch (2008).
-  - Found most predictors to perform poorly out-of-sample, though some showed promise.
-  - Employed machine learning techniques to improve forecasting performance.
+### Macro
 
-- **Research Program** – The Effect of Audit Failure on SEC Monitoring of Peer Firms – University of Science and Technology of China  
-  *Jul. 2020 – May 2021*  
-  **Advisor:** [Prof. Yue He](https://bs.ustc.edu.cn/english/profile-548.html)  
-  - Investigated how the SEC monitors firms audited by offices involved in audit failures, showing peer disclosures influence SEC intensity.
+- [Topics in Macro Fluctuations and Policy - Rohan Kekre, University of Chicago](https://sites.google.com/site/rohankekre/teaching/phd-topics-course)
+- [Macro Theory 2 - Mark Gertler, New York University](https://wp.nyu.edu/markgertler/macro-theory-2-slides/)
+- [Macroeconomics II - Ömer Özak, SMU](https://macroeconomics.github.io/pages/Lecture Notes.html)
+- [Ph.D. Macro Theory II - Eric Sims, University of Notre Dame](https://sites.nd.edu/esims/courses/ph-d-macro-theory-ii/)
+- [Ph.D. Advanced Macro - Eric Sims, University of Notre Dame](https://sites.nd.edu/esims/courses/ph-d-advanced-macro/)
 
-## Working Experience
+### Others
 
-- **High-Frequency Trading - Quant Researcher Intern** – Mengxi Investment, Shanghai, China  
-  *Feb. 2022 – June 2022*
+- [PhD IO Course - Charlie Murry, Boston College](https://github.com/charliemurry/grad-IO)
+- [Graduate IO - Chris Conlon, New York University](https://chrisconlon.github.io/gradio.html)
 
-- **High-Frequency Trading - Quant Researcher** – Mengxi Investment, Shanghai, China  
-  *July 2022 – October 2022*  
-  - Explored market microstructure features that predict short-term returns in futures markets.
-  - Used genetic algorithms to develop profitable market-taking strategies.
-  - Applied machine learning algorithms for better prediction of future returns.
+## Computer Science
 
-- **Alpha Research - Quant Researcher** – Jiuqian Investment, Shanghai, China  
-  *Nov. 2022 – June 2023*  
-  - Built Chinese stock market databases in collaboration with IT teams.
-  - Explored daily frequency features to predict cross-section stock returns.
+### Machine Learning, Deep Learning
 
-## Honors & Awards
+#### general intro course
 
-- **Outstanding Student Scholarship** – University of Science and Technology of China (2020-2021)
-- **International Tuition Award** – University of British Columbia (2023-2024)
-- **BPOC Graduate Excellence Award** – University of British Columbia (2023)
+- [Introduction to Machine Learning (PhD) - Leila Wehbe, Carnegie Mellon University](https://www.cs.cmu.edu/~lwehbe/10701_F22/#description)
+- [Practical Machine Learning - Qingqing Huang, Mu Li, Alex Smola, Stanford University](https://c.d2l.ai/stanford-cs329p/index.html)
+- [Advanced Machine Learning - David Sutherland, University of British Columbia](https://www.cs.ubc.ca/~dsuth/440/22w2/)
+- [Machine Learning and Data Mining - Various Lecturers, University of British Columbia](https://www.students.cs.ubc.ca/~cs-340/)
 
-## Teaching Experience
+#### Natural Language Processing
 
-- **Microeconomics** – University of Science and Technology of China  
-  *Fall 2020 & Fall 2021*  
-  - Instructor: Prof. Yaping Zhou  
-  - Evaluation: 4.3 (2020) & 4.75 (2021)
+- [Speech and Language Processing - Dan Jurafsky & James Martin, Stanford University](https://web.stanford.edu/~jurafsky/slp3/)
 
-## Skills
+#### Computer Vision
 
-- **Programming:** Python (Proficient), R (Familiar), Julia (Familiar), Stata (Familiar), SAS (Basic), LaTeX, SQL
-- **CS-related Skills:** Deep Learning, Machine Learning, Web Scraping, Natural Language Processing
+- [Computer Vision - Unspecified Lecturer, Stanford University]
 
-## Selected Courses 
+### General Computer Science
 
-course with **Bold** are phd level courses , course with *Italic* are audit courses 
-
-- **Courses studied in UBC:**  
-  - Monetary Theory and Policy  
-  - **Theory in Finance**  
-  - **Advanced Topics in Empirical Corporate Finance**  
-  - **Advanced Topics in Theoretical Corporate Finance**  
-  - **Empirical Methods in Accounting Research**
-  - ***stock market inefficiency***
-  - ***Econometric Theory II***
-
-- **Courses studied in USTC:**
-
-  - Microeconomics
-
-  - Macroeconomics
-
-  - Econometrics
-
-  - Ordinary Differential Equations
-  - Multivariate Statistical Analysis
-
-  - Stochastic Calculus
-  - ***Advanced Probability Theory***
+- [The Missing Semester of Your CS Education - MIT CSAIL](https://missing.csail.mit.edu/)
+- [CS267: Applications of Parallel Computers - Various Lecturers, University of California, Berkeley](https://sites.google.com/lbl.gov/cs267-spr2024)
