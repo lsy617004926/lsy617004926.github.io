@@ -8,15 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Siyang Liu, welcome to my webpage!
+Hi! I’m Siyang Liu. Welcome to my webpage! You can view my CV [here](https://lsy617004926.github.io/cv/).
 
-My background and history
+Background
 ======
-I received my Bachelor of Economics in Finance from the University of Science and Technology of China. After graduating, I joined a proprietary division of a hedge fund, where I researched high-frequency trading strategies and alpha strategies in the Chinese stock market. Currently, I am pursuing a Master’s degree in Finance at the UBC Sauder School of Business.
 
-My study interest
+I earned my Bachelor's degree in Economics with a focus on Finance from the University of Science and Technology of China. After graduating, I worked in the proprietary division of a hedge fund, where I researched high-frequency trading and alpha strategies in the Chinese stock market. Currently, I’m pursuing a Master’s degree in Finance at UBC Sauder School of Business.
+
+Research Interests
 ======
-I'm currently interested in asset pricing research, both empirical and theoretical.
+
+I am particularly interested in asset pricing, both empirical and theoretical.
 
 
 
