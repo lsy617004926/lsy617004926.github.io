@@ -5,92 +5,103 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+
 ---
 
 {% include base_path %}
 
-Education
-======
-  * BEcon in Finance, University of Science and Technology of China, 2018 - 2022
-  * Rank: 9/56 (top 20%)
+# Siyang Liu
 
-Working experience
-======
-  * Feb. 2022- June. 2022: Quant Researcher Intern
-    * Mengxi Investment, Shanghai, China 
+**Email:** lsy9911@student.ubc.ca | **Phone:** +1 236-965-6487 | **GitHub:** [Siyang Liu](https://github.com/lsy617004926)
 
-  * July. 2022- January. 2023: Quant Researcher
-    * Mengxi Investment, Shanghai, China
-    * Exploring market microstructure features that predict short term return of the futures.
-    * Using genetic algorithms to generate useful features for market taking strategies to make profitable trades.
-    * Applying various machine leaning algorithms to better predict feature returns.
-   
-  * Februrary. 2023- August. 2023: Quant Researcher
-    * Jiuqian Investment, Shanghai, China
+---
 
-<!-- * Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Education
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub -->
+- **M.Sc. in Business Administration (Finance)** – University of British Columbia, Vancouver  
+  *Sep. 2023 – Present*  
+  **GPA:** 4.32/4.33
 
-Teaching Experience
-======
-* Microeconomics Fall 2020 Sep.2020-Jan.2021
-  * Instructor: Prof. Yaping Zhou (Dept of Business Administration, USTC) 
-  * Evaluation:4.3
-* Microeconomics Fall 2021 Sep.2021-Jan.2022
-  * Instructor: Prof. Yaping Zhou (Dept of Business Administration, USTC) 
-  * Evaluation:4.75
+- **B.Econ in Finance** – University of Science and Technology of China, Anhui, China  
+  *Sep. 2018 – May 2022*  
 
-Skills
-======
-* Programming
-  * Python(NumPy, pandas, PyTorch, DEAP)
-  * R(tidyverse, Rmarkdown, base R)
-  * Stata
-* LaTeX
+---
 
-Research
-======
-* [Research on Chinese stock market return predictability (in Chinese)](https://github.com/lsy617004926/lsy617004926.github.io/blob/master/files/Research%20on%20Chinese%20stock%20market%20return%20predictability.pdf)
-  * I investigated both in-sample and out-of-sample return predictabilities in China with various economic indicators and market anomalies.
-  * In-sample test showed only turnover indicator lost its predictability. For the out-of-sample predictability, most economic indicators lost their predictabilities. 
-  * Used various machine learning methods to enhance forecast abilities. The best forecast method varied among sample periods, implying the instability of the model. 
-  * In the full sample, the predictor average forecast produced better out-of-sample predictability against the historical average forecast consistently.
+## Working Experience
 
-* [The Effect of Audit Failure on SEC Monitoring of Peer Firm](https://github.com/lsy617004926/lsy617004926.github.io/blob/master/files/The%20Effect%20of%20Audit%20Failure%20on%20SEC%20Monitoring%20of%20Peer%20Firm%20end%20version.pdf)
-  * Examined the correlation between the SEC monitoring intensity (proxied by SEC filing request through EDGAR database) of a firm and whether the firm was audited by a “contaminated” audit office who conducted an audit failure in the same year. 
-  * Showed that not only the firm’s own characteristic, but also its peers’ disclosures, had an impact on the monitoring intensity of SEC. 
-  * Provided new insights about the SEC actions about target selection procedure by suggesting that SEC perceives and reacts to office-level contagion of low audit quality identified by Francis and Michas (2013).
+- **High-Frequency Trading - Quant Researcher Intern** – Mengxi Investment, Shanghai, China  
+  *Feb. 2022 – June 2022*
 
-* [Effect of trade policy uncertainty on realized volatility of commodities](https://github.com/lsy617004926/lsy617004926.github.io/blob/master/files/TPU-on-RV-version-quarterly-china-douer-ranyou.html)
-  * Used vector-autoregression model (VAR) to identify the effect of trade policy uncertainties on the volatility of commodity prices.
-  * Estimated generalized Impulse Response Functions in which the shocks is included in the VAR model. 
-  * Used orthogonalized IRFs based on VAR ordering in VAR model instead of the generalized IRFs and estimated a new bivariate VAR model to check the robustness of the result.
+- **High-Frequency Trading - Quant Researcher** – Mengxi Investment, Shanghai, China  
+  *July 2022 – October 2022*  
+  - Explored market microstructure features that predict short-term returns in futures markets.
+  - Used genetic algorithms to develop profitable market-taking strategies.
+  - Applied machine learning algorithms for better prediction of future returns.
 
-  
-<!--   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
-<!--   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
-  
+- **Alpha Research - Quant Researcher** – Jiuqian Investment, Shanghai, China  
+  *Nov. 2022 – June 2023*  
+  - Built Chinese stock market databases in collaboration with IT teams.
+  - Explored daily frequency features to predict cross-section stock returns.
 
-<!--   <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
-  
-<!-- Service and leadership
-====== -->
-<!-- * Currently signed in to 43 different slack teams -->
+---
+
+## Research Experience
+
+- **Research Assistant** for Prof. Lorenzo Garlappi and Prof. Ali Lazrak – University of British Columbia  
+  *Apr. 2024 – Oct. 2024*
+
+- **Research Assistant** for Prof. Ella D.S. Patelli, Prof. Ron Giammarino, and Prof. Jack Favilukis – University of British Columbia  
+  *Jul. 2024 – Sep. 2024*
+
+- **Thesis** – Research on Chinese Stock Market Return Predictability – University of Science and Technology of China  
+  *Feb. 2022 – Apr. 2022*  
+  **Advisor:** Prof. Yulong Sun  
+  - Modeled the Chinese stock market using methods based on Goyal and Welch (2008).
+  - Found most predictors to perform poorly out-of-sample, though some showed promise.
+  - Employed machine learning techniques to improve forecasting performance.
+
+- **Research Program** – The Effect of Audit Failure on SEC Monitoring of Peer Firms – University of Science and Technology of China  
+  *Jul. 2020 – May 2021*  
+  **Advisor:** Prof. Yue He  
+  - Investigated how the SEC monitors firms audited by offices involved in audit failures, showing peer disclosures influence SEC intensity.
+
+---
+
+## Honors & Awards
+
+- **Outstanding Student Scholarship** – University of Science and Technology of China (2020-2021)
+- **International Tuition Award** – University of British Columbia (2023-2024)
+- **BPOC Graduate Excellence Award** – University of British Columbia (2023)
+
+---
+
+## Teaching Experience
+
+- **Microeconomics** – University of Science and Technology of China  
+  *Fall 2020 & Fall 2021*  
+  - Instructor: Prof. Yaping Zhou  
+  - Credit: 3  
+  - Evaluation: 4.3 (2020) & 4.75 (2021)
+
+---
+
+## Selected Courses
+
+- Microeconomics
+- Macroeconomics
+- Econometrics
+- Ordinary Differential Equations
+- Stochastic Processes
+- **PhD Courses (UBC):**  
+  - Theory in Finance  
+  - Advanced Topics in Empirical Corporate Finance  
+  - Monetary Theory and Policy  
+  - Advanced Topics in Theoretical Corporate Finance  
+
+---
+
+## Skills
+
+- **Programming:** Python (Proficient), R (Familiar), Julia (Familiar), Stata (Familiar), SAS (Basic), LaTeX, SQL
+- **CS-related Skills:** Deep Learning, Machine Learning, Web Scraping, Natural Language Processing
+
