@@ -14,8 +14,6 @@ redirect_from:
 
 **Email:** lsy9911@student.ubc.ca | **Phone:** +1 236-965-6487 | **GitHub:** [Siyang Liu](https://github.com/lsy617004926)
 
----
-
 ## Education
 
 - **M.Sc. in Business Administration (Finance)** – University of British Columbia, Vancouver  
@@ -24,8 +22,6 @@ redirect_from:
 
 - **B.Econ in Finance** – University of Science and Technology of China, Anhui, China  
   *Sep. 2018 – May 2022*  
-
----
 
 ## Working Experience
 
@@ -42,8 +38,6 @@ redirect_from:
   *Nov. 2022 – June 2023*  
   - Built Chinese stock market databases in collaboration with IT teams.
   - Explored daily frequency features to predict cross-section stock returns.
-
----
 
 ## Research Experience
 
@@ -65,15 +59,11 @@ redirect_from:
   **Advisor:** Prof. Yue He  
   - Investigated how the SEC monitors firms audited by offices involved in audit failures, showing peer disclosures influence SEC intensity.
 
----
-
 ## Honors & Awards
 
 - **Outstanding Student Scholarship** – University of Science and Technology of China (2020-2021)
 - **International Tuition Award** – University of British Columbia (2023-2024)
 - **BPOC Graduate Excellence Award** – University of British Columbia (2023)
-
----
 
 ## Teaching Experience
 
@@ -82,8 +72,6 @@ redirect_from:
   - Instructor: Prof. Yaping Zhou  
   - Credit: 3  
   - Evaluation: 4.3 (2020) & 4.75 (2021)
-
----
 
 ## Selected Courses
 
@@ -97,8 +85,6 @@ redirect_from:
   - Advanced Topics in Empirical Corporate Finance  
   - Monetary Theory and Policy  
   - Advanced Topics in Theoretical Corporate Finance  
-
----
 
 ## Skills
 
