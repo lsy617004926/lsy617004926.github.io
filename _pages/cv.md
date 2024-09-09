@@ -90,7 +90,3 @@ redirect_from:
 
 - **Programming:** Python (Proficient), R (Familiar), Julia (Familiar), Stata (Familiar), SAS (Basic), LaTeX, SQL
 - **CS-related Skills:** Deep Learning, Machine Learning, Web Scraping, Natural Language Processing
-
----
-
-Let me know if this works!
