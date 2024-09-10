@@ -15,6 +15,8 @@ Background
 
 I earned my Bachelor's degree in Economics with a focus on Finance from the University of Science and Technology of China. After graduating, I worked in the proprietary division of a hedge fund, where I researched high-frequency trading and alpha strategies in the Chinese stock market. Currently, I’m pursuing a Master’s degree in Finance at UBC Sauder School of Business.
 
+Outside of my academic work, I enjoy building my own quantitative trading system and maintain a quantitative investment database, which I am currently integrating with stock and cryptocurrency exchanges.
+
 Research Interests
 ======
 
