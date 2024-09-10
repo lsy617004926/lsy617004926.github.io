@@ -73,8 +73,8 @@ redirect_from:
 
 ## Skills
 
-- **Programming:** Python (Proficient), R (Familiar), Julia (Familiar), Stata (Familiar), SAS (Basic), LaTeX, SQL
-- **CS-related Skills:** Deep Learning, Machine Learning, Web Scraping, Natural Language Processing
+- **Programming:** Python (Proficient), R (Familiar), Julia (Familiar), Stata (Familiar), SAS (Basic), LaTeX, SQL, HTML & CSS
+- **CS-related Skills:** Deep Learning, Machine Learning, Web Scraping, Natural Language Processing, Parallel Programming
 
 ## Selected Courses 
 
