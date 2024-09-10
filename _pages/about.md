@@ -17,7 +17,7 @@ I earned my Bachelor's degree in Economics with a focus on Finance from the Univ
 
 Outside of my academic work, I enjoy building my own quantitative trading system and maintain a quantitative investment database, which I am currently integrating with stock and cryptocurrency exchanges.
 
-After talking so much about my geeky activities, I should also mention that I’m a passionate fan of stand-up comedy and have a interest in existentialist philosophy.
+After talking so much about my geeky activities, I’m also a passionate fan of stand-up comedy and have a interest in existentialist philosophy.
 
 Research Interests
 ======
