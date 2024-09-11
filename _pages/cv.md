@@ -33,14 +33,16 @@ redirect_from:
 - **Thesis** – Research on Chinese Stock Market Return Predictability – University of Science and Technology of China  
   *Feb. 2022 – Apr. 2022*  
   **Advisor:** [Prof. Yulong Sun](https://sites.google.com/view/yulongsun/)  
-  - Modeled the Chinese stock market using methods based on Goyal and Welch (2008).
-  - Found most predictors to perform poorly out-of-sample, though some showed promise.
-  - Employed machine learning techniques to improve forecasting performance.
+  - This is a Chinese version of Goyal and Welch (2008) with machine learning to improve out of sample forecast。
+  -	Most predictor have poor out-of-sample performance. 
+  -	A small number of variables perform reasonably well both in-sample and out-of-sample.
+  -	Machine learning combination method help improve this performance.
+
 
 - **Research Program** – The Effect of Audit Failure on SEC Monitoring of Peer Firms – University of Science and Technology of China  
   *Jul. 2020 – May 2021*  
   **Advisor:** [Prof. Yue He](https://bs.ustc.edu.cn/english/profile-548.html)  
-  - Investigated how the SEC monitors firms audited by offices involved in audit failures, showing peer disclosures influence SEC intensity.
+  - Showed that not only the firm’s own characteristic, but also its peers’ disclosures, had an impact on the monitoring intensity of SEC. 
 
 ## Working Experience
 
