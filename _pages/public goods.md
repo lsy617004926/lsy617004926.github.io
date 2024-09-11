@@ -17,7 +17,7 @@ author_profile: true
 - [Asset Pricing - Tarek Alexander Hassan, Boston University](https://www.tarekhassan.net/international-macroeconomics-and-finance-35915)
 - [Asset Pricing I - Markus K. Brunnermeier, Princeton University](https://markus.scholar.princeton.edu/classes/fin501)
 - [Empirical Asset Pricing - Jun Pan, Shanghai Advanced Institute of Finance (SAIF)](https://en.saif.sjtu.edu.cn/junpan/EAP2020.html)
-- [Empirical Methods in Corporate Finance - Todd Gormley, University of Pennsylvania](http://www.gormley.info/phd-notes.html)
+- [Empirical Methods in Corporate Finance - Todd Gormley, Washington University in St. Louis](http://www.gormley.info/phd-notes.html)
 - [Corporate Finance and Financial Institutions - Itay Goldstein, University of Pennsylvania](https://finance.wharton.upenn.edu/~itayg/#PhD)
 - [Topics in Dynamic Asset Pricing - Pietro Veronesi, University of Chicago](https://faculty.chicagobooth.edu/pietro-veronesi/teaching/bus-35907)
 - [Introduction to Asset Pricing - Hengjie Ai, University of Wisconsin-Madison](https://www.hengjieai.com/intro-to-ap.html)
