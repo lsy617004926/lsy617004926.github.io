@@ -33,7 +33,7 @@ redirect_from:
 - **Thesis** – Research on Chinese Stock Market Return Predictability – University of Science and Technology of China  
   *Feb. 2022 – Apr. 2022*  
   **Advisor:** [Prof. Yulong Sun](https://sites.google.com/view/yulongsun/)  
-  - This is a Chinese version of Goyal and Welch (2008) with machine learning to improve out of sample forecast。
+  - This is a Chinese version of Goyal and Welch (2008) with machine learning to improve out of sample forecast.
   -	Most predictor have poor out-of-sample performance. 
   -	A small number of variables perform reasonably well both in-sample and out-of-sample.
   -	Machine learning combination method help improve this performance.
