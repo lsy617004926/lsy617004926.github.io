@@ -22,7 +22,7 @@ After talking so much about my geeky activities, I’m also a passionate fan of 
 Research Interests
 ======
 
-I am particularly interested in asset pricing, both empirical and theoretical focusing on connections between financial markets and the macroeconomy. Outside of specialized finance topics, I also have a strong interest in utilizing state-of-the-art deep learning technology to advance finance research.
+I am particularly interested in asset pricing, both empirical and theoretical, focusing on connections between financial markets and the macroeconomy. Outside of specialized finance topics, I also have a strong interest in utilizing state-of-the-art deep learning technology to advance finance research.
 
 Public Goods
 ======
