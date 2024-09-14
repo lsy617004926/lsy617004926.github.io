@@ -21,7 +21,7 @@ author_profile: true
 - [Corporate Finance and Financial Institutions - Itay Goldstein, University of Pennsylvania](https://finance.wharton.upenn.edu/~itayg/#PhD)
 - [Topics in Dynamic Asset Pricing - Pietro Veronesi, University of Chicago](https://faculty.chicagobooth.edu/pietro-veronesi/teaching/bus-35907)
 - [Introduction to Asset Pricing - Hengjie Ai, University of Wisconsin-Madison](https://www.hengjieai.com/intro-to-ap.html)
-- [Behavioral Finance - Nicholas Barberis, Yale University](https://faculty.som.yale.edu/nicholasbarberis/teaching/)
+- [Behavioral Finance - Nicholas Barberis, Yale University](https://www.aeaweb.org/content/file?id=2978)
 - [Behavioral Finance - Augustin Landier, HEC Paris](https://sites.google.com/site/augustinlandier/teaching-notes)
 - [Financial Economics - Kasa Kenneth, Simon Fraser University](https://www.sfu.ca/~kkasa/econ2021_18.htm)
 - [Macro-Finance Reading Group Lectures - Wenhao Li, University of Southern California](https://www.dropbox.com/scl/fo/iz65kl0v77rxs78dzzhy2/ADJAcqqP60V7IqpRjW8UrHw?rlkey=v7girlmf1rcubfmd9ey3qwl3j&e=1&dl=0)
