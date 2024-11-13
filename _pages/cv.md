@@ -18,7 +18,7 @@ redirect_from:
 
 - **M.Sc. in Business Administration (Finance)** – University of British Columbia, Vancouver  
   *Sep. 2023 – Present*  
-  **GPA:** 4.32/4.33
+  **GPA:** 4.20/4.33
 - **B.Econ in Finance** – University of Science and Technology of China, Anhui, China  
   *Sep. 2018 – May 2022*  
 
