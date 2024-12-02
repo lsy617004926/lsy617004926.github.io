@@ -36,6 +36,7 @@ author_profile: true
 - [Applied Empirical Methods - Paul Goldsmith-Pinkham, Yale University](https://github.com/paulgp/applied-methods-phd)
 - [Graduate Econometrics - Chris Conlon, New York University](https://chrisconlon.github.io/metrics.html)
 - [Econometric Theory II - Vadim Marmer, University of British Columbia](https://vadimmarmer.com/teaching/2020-01-Econ-627)
+- [Applied Econometrics - Junlong Feng, HKUST](https://github.com/junlong-feng/econ5280)
 
 ### Macro
 
