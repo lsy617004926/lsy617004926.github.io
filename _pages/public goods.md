@@ -12,7 +12,7 @@ author_profile: true
 
 ## Finance
 
-- [Empirical Asset Pricing - Ralph S.J. Koijen, University of Chicago](https://www.koijen.net/empirical-asset-pricing-notes.html)
+- [Empirical Asset Pricing - Ralph S.J. Koijen and Stijn Van Nieuwerburgh, University of Chicago, Columbia University](https://www.koijen.net/asset-pricing-notes.html)
 - [Asset Pricing - John H. Cochrane, Hoover Institution](https://www.johnhcochrane.com/asset-pricing)
 - [Asset Pricing - Tarek Alexander Hassan, Boston University](https://www.tarekhassan.net/international-macroeconomics-and-finance-35915)
 - [Asset Pricing I - Markus K. Brunnermeier, Princeton University](https://markus.scholar.princeton.edu/classes/fin501)
