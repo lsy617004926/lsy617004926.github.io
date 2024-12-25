@@ -216,7 +216,7 @@ defaults:
       author_profile: true
   # _teaching
   - scope:
-      path: "https://lsy.quarto.pub/comm475_2025/"
+      path: ""
       type: teaching
     values:
       layout: single
