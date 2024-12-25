@@ -6,8 +6,8 @@ main:
 #   - title: "Talks"
 #     url: /talks/    
 
-  - title: "Teaching"
-    url: https://lsy.quarto.pub/comm475_2025/   
+#   - title: "Teaching"
+#     url: https://lsy.quarto.pub/comm475_2025/   
     
 #   - title: "Research"
 #     url: /research/   
@@ -26,3 +26,6 @@ main:
 
   - title: "Public Goods"
     url: /public goods/   
+
+  - title: "COMM 475 2025"
+    url: https://lsy.quarto.pub/comm475_2025/   
