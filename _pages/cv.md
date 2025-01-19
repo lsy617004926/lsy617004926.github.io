@@ -46,19 +46,19 @@ redirect_from:
 
 ## Working Experience
 
-- **High-Frequency Trading - Quant Researcher Intern** – Mengxi Investment, Shanghai, China  
-  *Feb. 2022 – June 2022*
-
+- **Alpha Research - Quant Researcher** – Jiuqian Investment, Shanghai, China  
+  *Nov. 2022 – June 2023*  
+  - Built Chinese stock market databases in collaboration with IT teams.
+  - Explored daily frequency features to predict cross-section stock returns.
+ 
 - **High-Frequency Trading - Quant Researcher** – Mengxi Investment, Shanghai, China  
   *July 2022 – October 2022*  
   - Explored market microstructure features that predict short-term returns in futures markets.
   - Used genetic algorithms to develop profitable market-taking strategies.
   - Applied machine learning algorithms for better prediction of future returns.
 
-- **Alpha Research - Quant Researcher** – Jiuqian Investment, Shanghai, China  
-  *Nov. 2022 – June 2023*  
-  - Built Chinese stock market databases in collaboration with IT teams.
-  - Explored daily frequency features to predict cross-section stock returns.
+- **High-Frequency Trading - Quant Researcher Intern** – Mengxi Investment, Shanghai, China  
+  *Feb. 2022 – June 2022*
 
 ## Honors & Awards
 
@@ -66,12 +66,28 @@ redirect_from:
 - **International Tuition Award** – University of British Columbia (2023-2024)
 - **BPOC Graduate Excellence Award** – University of British Columbia (2023)
 
-## Teaching Experience
+## Teaching Experience  
+
+- **COMM 475 Investment Policy** – University of British Columbia, Vancouver, Canada  
+  *Winter 2025*  
+  - Role: Teaching Assistant  
+  - Instructor: Prof. Lorenzo Garlappi, UBC Sauder School of Business  
+
+- **COMM 671 (PhD) Theory of Finance** – University of British Columbia, Vancouver, Canada  
+  *Fall 2024*  
+  - Role: Teaching Assistant  
+  - Instructor: Prof. Ali Lazrak, UBC Sauder School of Business  
+
+- **COMM 377 International Financial Markets and Institutions** – University of British Columbia, Vancouver, Canada  
+  *Fall 2024*  
+  - Role: Teaching Assistant  
+  - Instructor: Prof. Ali Lazrak, UBC Sauder School of Business  
 
 - **Microeconomics** – University of Science and Technology of China  
   *Fall 2020 & Fall 2021*  
+  - Role: Teaching Assistant  
   - Instructor: Prof. Yaping Zhou  
-  - Evaluation: 4.3 (2020) & 4.75 (2021)
+  - Evaluation: 4.3 (2020) & 4.75 (2021)  
 
 ## Skills
 
