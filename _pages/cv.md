@@ -60,12 +60,6 @@ redirect_from:
 - **High-Frequency Trading - Quant Researcher Intern** – Mengxi Investment, Shanghai, China  
   *Feb. 2022 – June 2022*
 
-## Honors & Awards
-
-- **Outstanding Student Scholarship** – University of Science and Technology of China (2020-2021)
-- **International Tuition Award** – University of British Columbia (2023-2024)
-- **BPOC Graduate Excellence Award** – University of British Columbia (2023)
-
 ## Teaching Experience  
 
 - **COMM 475 Investment Policy** – University of British Columbia, Vancouver, Canada  
@@ -87,7 +81,13 @@ redirect_from:
   *Fall 2020 & Fall 2021*  
   - Role: Teaching Assistant  
   - Instructor: Prof. Yaping Zhou  
-  - Evaluation: 4.3 (2020) & 4.75 (2021)  
+  - Evaluation: 4.3 (2020) & 4.75 (2021)
+ 
+## Honors & Awards
+
+- **Outstanding Student Scholarship** – University of Science and Technology of China (2020-2021)
+- **International Tuition Award** – University of British Columbia (2023-2024)
+- **BPOC Graduate Excellence Award** – University of British Columbia (2023)
 
 ## Skills
 
