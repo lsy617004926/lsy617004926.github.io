@@ -102,9 +102,11 @@ course with **Bold** are phd level courses , course with *Italic* are audit cour
   - Monetary Theory and Policy  
   - **Theory in Finance**  
   - **Advanced Topics in Empirical Corporate Finance**  
-  - **Advanced Topics in Theoretical Corporate Finance**  
+  - **Advanced Topics in Theoretical Corporate Finance**
+  - **Advanced Topics in Empirical Asset Pricing**  
+  - **Advanced Topics in Theoretical Asset Pricing**  
   - **Empirical Methods in Accounting Research**
-  - ***stock market inefficiency***
+  - **stock market inefficiency**
   - ***Econometric Theory II***
 
 - **Courses studied in USTC:**
