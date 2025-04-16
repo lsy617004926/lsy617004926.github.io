@@ -48,10 +48,17 @@ author_profile: true
 - [Macroeconomics 1 - Dean Corbae, University of Wisconsin-Madison](https://sites.google.com/a/wisc.edu/deancorbae/teaching)
 - [Macroeconomics with Heterogeneity - Matthew Rognlie, Northwestern University](https://sites.northwestern.edu/rognlie/teaching/)
 
+### Trade
+
+- [International Trade - Dave Donaldson, MIT](https://dave-donaldson.com/teaching/)
+- [Graduate Trade Course - Treb Allen, Dartmouth](https://sites.google.com/site/treballen/graduate-trade)
+- [International Economics (ECON 6905) - Jonathan Dingel, University of Chicago](https://github.com/jdingel/econ6905)
+
 ### Others
 
 - [PhD IO Course - Charlie Murry, Boston College](https://github.com/charliemurry/grad-IO)
 - [Graduate IO - Chris Conlon, New York University](https://chrisconlon.github.io/gradio.html)
+- [Quantitative Economics with Julia](https://julia.quantecon.org/intro.html)
 
 ## Computer Science
 
@@ -81,4 +88,9 @@ author_profile: true
 
 - [The Missing Semester of Your CS Education - MIT](https://missing.csail.mit.edu/)
 - [Applications of Parallel Computers - Aydin Buluc, Jim Demmel, University of California, Berkeley](https://sites.google.com/lbl.gov/cs267-spr2024)
+
+## Advices to PhD (like me)
+
+- [PhD & Research Advice - Jonathan Dingel](http://www.jdingel.com/teaching/advice.html)
+- [Keith Head’s Introduction Formula for Research Writing](https://blogs.ubc.ca/khead/research/research-advice/formula)
 
