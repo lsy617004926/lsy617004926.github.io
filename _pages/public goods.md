@@ -56,6 +56,11 @@ author_profile: true
 - [Graduate Trade Course - Treb Allen, Dartmouth](https://sites.google.com/site/treballen/graduate-trade)
 - [International Economics (ECON 6905) - Jonathan Dingel, University of Chicago](https://github.com/jdingel/econ6905)
 
+### Numerical Methods
+
+- [Numerical Methods - Kenneth Judd, Stanford University](https://kenjudd.org/teaching/numerical-methods-by-judd/)
+- [Numerical Methods (Penn State 2025) - Kenneth Judd](https://kenjudd.org/teaching/penn-state-numerical-methods/penn-state-2025/)
+
 ### Others
 
 - [PhD IO Course - Charlie Murry, Boston College](https://github.com/charliemurry/grad-IO)
