@@ -86,7 +86,7 @@ author:
   location         : "Vancouver"
   employer         :
   # googlescholar    : ""
-  email            :
+  email            : "lsy9911@student.ubc.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -108,7 +108,7 @@ author:
 #  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "siyang__liu"
+  # twitter          : "siyang__liu"
   vine             :
   weibo            :
   xing             :
