@@ -29,6 +29,7 @@ author_profile: true
 - [Macro-Finance Reading Group Lectures - Wenhao Li, University of Southern California](https://www.dropbox.com/scl/fo/iz65kl0v77rxs78dzzhy2/ADJAcqqP60V7IqpRjW8UrHw?rlkey=v7girlmf1rcubfmd9ey3qwl3j&e=1&dl=0)
 - [Lecture Notes on International Finance - Zhengyang Jiang, Northwestern University](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4668578)
 - [Teaching Notes - John H. Cochrane, Hoover Institution](https://www.johnhcochrane.com/teaching)
+- [Factor Investing - Chuan Shi, CUHKSZ](https://www.shichuan.info/teaching/DDA3600)
 
 ## Economics
 
