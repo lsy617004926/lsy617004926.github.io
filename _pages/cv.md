@@ -42,7 +42,7 @@ redirect_from:
   -	Machine learning combination method help improve this performance.
 
 
-- **Research Program** – The Effect of Audit Failure on SEC Monitoring of Peer Firms – University of Science and Technology of China  
+- **Research Project** – The Effect of Audit Failure on SEC Monitoring of Peer Firms – University of Science and Technology of China  
   *Jul. 2020 – May 2021*  
   **Advisor:** [Prof. Yue He](https://bs.ustc.edu.cn/english/profile-548.html)  
   - Showed that not only the firm’s own characteristic, but also its peers’ disclosures, had an impact on the monitoring intensity of SEC. 
