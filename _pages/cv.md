@@ -71,7 +71,7 @@ redirect_from:
   - Instructor: Prof. Lorenzo Garlappi, UBC Sauder School of Business  
 
 - **COMM 671 (PhD) Theory of Finance** – University of British Columbia, Vancouver, Canada  
-  *Fall 2024*  
+  *Fall 2024 & Fall 2025*  
   - Role: Teaching Assistant  
   - Instructor: Prof. Ali Lazrak, UBC Sauder School of Business  
 
