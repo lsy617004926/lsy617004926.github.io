@@ -13,11 +13,9 @@ Hi! I’m Siyang Liu. Welcome to my webpage! You can view my CV [here](https://l
 Background
 ======
 
-I earned my Bachelor's degree in Economics with a focus on Finance from the University of Science and Technology of China (USTC). After graduating, I worked in the proprietary division of a hedge fund as a quant trader, where I researched high-frequency trading and alpha strategies in the Chinese stock market. Currently, I’m pursuing a Master’s degree in Finance at UBC Sauder School of Business.
+I earned my Bachelor’s degree in Economics from the School of Statistics and Finance at the University of Science and Technology of China (USTC). After graduation, I worked as a quantitative trader in the proprietary division of a hedge fund, where I focused on high-frequency trading and alpha strategies in the Chinese stock market. I then completed a Master’s degree in Finance at the UBC Sauder School of Business. Beginning this September, I will continue at UBC Sauder as a PhD student in Finance.
 
-Outside of my academic work, I enjoy building my own quantitative trading system and maintain a quantitative investment database, which I am currently integrating with stock and cryptocurrency exchanges.
-
-I’ll continue on to become a PhD student in Finance this September at UBC Sauder!
+<!--Outside of my academic work, I enjoy building my own quantitative trading system and maintain a quantitative investment database, which I am currently integrating with stock and cryptocurrency exchanges.-->
 
 <!-- After talking so much about my geeky activities, I’m also a passionate fan of stand-up comedy and have a interest in existentialist philosophy.-->
 
