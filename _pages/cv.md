@@ -15,9 +15,10 @@ redirect_from:
 **Email:** lsy9911@student.ubc.ca | **Phone:** +1 236-965-6487 | **GitHub:** [Siyang Liu](https://github.com/lsy617004926)
 
 ## Education
-
+- **Ph.D. in Business Administration (Finance)** – University of British Columbia, Vancouver  
+  *Sep. 2025 – Present*  
 - **M.Sc. in Business Administration (Finance)** – University of British Columbia, Vancouver  
-  *Sep. 2023 – Present*  
+  *Sep. 2023 – April 2025*  
   **GPA:** 4.06/4.33
 - **B.Econ in Finance** – University of Science and Technology of China, Anhui, China  
   *Sep. 2018 – May 2022*  
