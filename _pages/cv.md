@@ -18,7 +18,7 @@ redirect_from:
 
 - **M.Sc. in Business Administration (Finance)** – University of British Columbia, Vancouver  
   *Sep. 2023 – Present*  
-  **GPA:** 4.20/4.33
+  **GPA:** 4.06/4.33
 - **B.Econ in Finance** – University of Science and Technology of China, Anhui, China  
   *Sep. 2018 – May 2022*  
 
@@ -96,32 +96,3 @@ redirect_from:
 
 - **Programming:** Python (Proficient), R (Familiar), Julia (Familiar), Stata (Familiar), SAS (Basic), LaTeX, SQL, HTML & CSS
 - **CS-related Skills:** Deep Learning, Machine Learning, Web Scraping, Natural Language Processing, Parallel Programming
-
-## Selected Courses 
-
-course with **Bold** are phd level courses , course with *Italic* are audit courses 
-
-- **Courses studied in UBC:**  
-  - Monetary Theory and Policy  
-  - **Theory in Finance**  
-  - **Advanced Topics in Empirical Corporate Finance**  
-  - **Advanced Topics in Theoretical Corporate Finance**
-  - **Advanced Topics in Empirical Asset Pricing**  
-  - **Advanced Topics in Theoretical Asset Pricing**  
-  - **Empirical Methods in Accounting Research**
-  - **Stock Market Inefficiency**
-  - ***Econometric Theory II***
-
-- **Courses studied in USTC:**
-
-  - Microeconomics
-
-  - Macroeconomics
-
-  - Econometrics
-
-  - Ordinary Differential Equations
-  - Multivariate Statistical Analysis
-
-  - Stochastic Calculus
-  - ***Advanced Probability Theory***
