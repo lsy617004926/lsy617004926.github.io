@@ -12,7 +12,7 @@ redirect_from:
 
 # Siyang Liu
 
-**Email:** lsy9911@student.ubc.ca | **Phone:** +1 236-965-6487 | **GitHub:** [Siyang Liu](https://github.com/lsy617004926)
+**Email:** siyang.liu@sauder.ubc.ca | **Phone:** +1 236-965-6487 | **GitHub:** [Siyang Liu](https://github.com/lsy617004926)
 
 ## Education
 - **Ph.D. in Business Administration (Finance)** – University of British Columbia, Vancouver  
