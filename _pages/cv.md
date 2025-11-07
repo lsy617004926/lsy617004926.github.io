@@ -26,7 +26,7 @@ redirect_from:
 ## Research Experience
 
 * **Research Assistant** for [Prof. Ella D.S. Patelli](https://sites.google.com/view/ella-ds-patelli/accueil) – University of British Columbia
-  *Apr. 2025 – Present*
+  *Apr. 2025 – Sept. 2025*
 
 * **Research Assistant** for [Prof. Lorenzo Garlappi](https://sites.google.com/site/lorenzogarlappi/) and [Prof. Ali Lazrak](https://sites.google.com/view/ali-lazrak) – University of British Columbia
   *Apr. 2024 – Apr. 2025*
