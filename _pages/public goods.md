@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-- Welcome to my Public Goods page! Here, I maintain a list of wonderful lecture notes and courses from professors at various universities in finance, economics, and computer science (mostly PhD-level courses) that have greatly benefited me. This is my way of supporting an open academic environment. If you find any errors, please feel free to contact [me](lsy9911@student.ubc.ca).
+- Welcome to my Public Goods page! Here, I maintain a list of wonderful lecture notes and courses from professors at various universities in finance, economics, and computer science (mostly PhD-level courses) that have greatly benefited me. This is my way of supporting an open academic environment. If you find any errors, please feel free to contact [me](siyang.liu@sauder.ubc.ca).
 - I credited [Eileen Bian](https://ce-bian.github.io/) for her recommendations.
 
 
