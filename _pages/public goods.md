@@ -10,6 +10,7 @@ author_profile: true
 
 - Welcome to my Public Goods page! Here, I maintain a list of wonderful lecture notes and courses from professors at various universities in finance, economics, and computer science (mostly PhD-level courses) that have greatly benefited me. This is my way of supporting an open academic environment. If you find any errors, please feel free to contact [me](siyang.liu@sauder.ubc.ca).
 - I credited [Eileen Bian](https://ce-bian.github.io/) for her recommendations.
+- test weibo website [weibo](http://ir.weibo.com/news-releases/news-release-details/weibo-announces-second-quarter-2025-unaudited-financial-results) for her recommendations.
 
 
 ## Finance
