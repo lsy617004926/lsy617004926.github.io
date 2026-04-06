@@ -23,6 +23,9 @@ redirect_from:
 - **B.Econ in Finance** – University of Science and Technology of China, Anhui, China  
   *Sep. 2018 – May 2022*  
 
+## Work in Progress
+The wisdom of crowd or the wisdom of insider? Insider trading on prediction market
+
 ## Research Experience
 
 * **Research Assistant** for [Prof. Ella D.S. Patelli](https://sites.google.com/view/ella-ds-patelli/accueil) – University of British Columbia
