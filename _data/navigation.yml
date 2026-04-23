@@ -27,5 +27,8 @@ main:
   - title: "Public Goods"
     url: /public goods/   
 
+  - title: "AI Learning Resources for Economists"
+    url: /ai-learning/
+
   - title: "COMM 475 2025"
-    url: https://lsy.quarto.pub/comm475_2025/   
+    url: https://lsy.quarto.pub/comm475_2025/
