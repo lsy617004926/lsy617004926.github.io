@@ -103,3 +103,7 @@ author_profile: true
 - [PhD & Research Advice - Jonathan Dingel](http://www.jdingel.com/teaching/advice.html)
 - [Keith Head’s Introduction Formula for Research Writing](https://blogs.ubc.ca/khead/research/research-advice/formula)
 
+## AI Learning Resources for Economists
+
+<iframe src="https://glorious-begonia-aa6.notion.site/ebd//339195e07a238020b8aae6b5a1661f08?v=339195e07a2380c0ad01000c92c92011" width="100%" height="800" frameborder="0" allowfullscreen></iframe>
+
