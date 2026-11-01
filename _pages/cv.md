@@ -10,9 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-# Siyang Liu
-
-**Email:** siyang.liu@sauder.ubc.ca | **Phone:** +1 236-965-6487 | **GitHub:** [Siyang Liu](https://github.com/lsy617004926)
+**Email:** siyang.liu@sauder.ubc.ca | **GitHub:** [lsy617004926](https://github.com/lsy617004926)
 
 ## Education
 - **Ph.D. in Business Administration (Finance)** – University of British Columbia, Vancouver  
@@ -24,7 +22,7 @@ redirect_from:
   *Sep. 2018 – May 2022*  
 
 ## Work in Progress
-[The wisdom of crowd or the wisdom of insider? - Insider trading on prediction market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6678718)
+[The Wisdom of the Crowd or the Wisdom of Insiders? Insider Trading on Prediction Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6678718)
 
 ## Research Experience
 
@@ -40,18 +38,18 @@ redirect_from:
 - **Thesis** – Research on Chinese Stock Market Return Predictability – University of Science and Technology of China  
   *Feb. 2022 – Apr. 2022*  
   **Advisor:** [Prof. Yulong Sun](https://sites.google.com/view/yulongsun/)  
-  - This is a Chinese version of Goyal and Welch (2008) with machine learning to improve out of sample forecast.
-  -	Most predictor have poor out-of-sample performance. 
+  - A Chinese-market version of Goyal and Welch (2008), using machine learning to improve out-of-sample forecasts.
+  -	Most predictors have poor out-of-sample performance. 
   -	A small number of variables perform reasonably well both in-sample and out-of-sample.
-  -	Machine learning combination method help improve this performance.
+  -	Machine-learning forecast combinations improve this performance.
 
 
 - **Research Project** – The Effect of Audit Failure on SEC Monitoring of Peer Firms – University of Science and Technology of China  
   *Jul. 2020 – May 2021*  
   **Advisor:** [Prof. Yue He](https://bs.ustc.edu.cn/english/profile-548.html)  
-  - Showed that not only the firm’s own characteristic, but also its peers’ disclosures, had an impact on the monitoring intensity of SEC. 
+  - Showed that not only a firm’s own characteristics but also its peers’ disclosures affect the intensity of SEC monitoring. 
 
-## Working Experience
+## Work Experience
 
 - **Alpha Research - Quant Researcher** – Jiuqian Investment, Shanghai, China  
   *Nov. 2022 – June 2023*  

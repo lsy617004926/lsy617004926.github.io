@@ -27,7 +27,7 @@ I am particularly interested in asset pricing, both empirical and theoretical, f
 Public Goods
 ======
 
-I maintain a collection of public goods on my webpage, including lecture notes and courses that have been incredibly useful to me. You can explore them [here](https://lsy617004926.github.io/public%20goods/). This is my effort to promote open access in academia.
+I maintain a collection of public goods on my webpage, including lecture notes and courses that have been incredibly useful to me. You can explore them [here](/public-goods/). This is my effort to promote open access in academia.
 
 **Disclaimer**: All materials are for educational purposes only, and I do not claim ownership of the content; full credit goes to the original authors.
 

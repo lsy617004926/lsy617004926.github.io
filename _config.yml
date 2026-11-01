@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Siyang Liu"
 title_separator          : "-"
 name                     : &name "Siyang Liu"
-description              : &description "personal description"
+description              : &description "Siyang Liu, PhD student in Finance at the UBC Sauder School of Business: research, CV, teaching, and trackers of finance and economics research."
 url                      : "https://lsy617004926.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lsy617004926/lsy617004926.github.io"
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Siyang Liu"
-  avatar           : "DSC_8063.jpg"
+  avatar           : "avatar.jpg"
   # avatar           : "profile.png"
-  bio              : "Siyang Liu is a PhD student in Finance at the UBC Sauder School of Business"
+  bio              : "PhD Student in Finance, UBC Sauder School of Business"
   location         : "Vancouver"
   employer         :
   # googlescholar    : ""

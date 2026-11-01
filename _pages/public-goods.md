@@ -1,7 +1,9 @@
 ---
 layout: archive
 title: "Public Goods"
-permalink: /public goods/
+permalink: /public-goods/
+redirect_from:
+  - "/public goods/"
 author_profile: true
 
 ---
@@ -105,5 +107,5 @@ author_profile: true
 
 ## AI Learning Resources for Economists
 
-<iframe src="https://gen-li.notion.site/ebd//339195e07a238020b8aae6b5a1661f08?v=339195e07a2380c0ad01000c92c92011" width="100%" height="600" frameborder="0" allowfullscreen></iframe>
+<iframe loading="lazy" src="https://gen-li.notion.site/ebd//339195e07a238020b8aae6b5a1661f08?v=339195e07a2380c0ad01000c92c92011" width="100%" height="600" frameborder="0" allowfullscreen></iframe>
 
