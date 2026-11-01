@@ -27,5 +27,18 @@ main:
   - title: "Public Goods"
     url: /public goods/   
 
-  - title: "COMM 475 2025"
-    url: https://lsy.quarto.pub/comm475_2025/
+  - title: "Trackers"
+    url: /trackers/
+    children:
+      - title: "Finance JMP Tracker"
+        url: https://lsy617004926.github.io/finance-jmp-tracker/
+      - title: "Finance Paper Tracker"
+        url: https://lsy617004926.github.io/finance-paper-tracker/
+      - title: "Economics Paper Tracker"
+        url: https://lsy617004926.github.io/economics-paper-tracker/
+
+  - title: "Classes"
+    url: /classes/
+    children:
+      - title: "COMM 475 2025"
+        url: https://lsy.quarto.pub/comm475_2025/

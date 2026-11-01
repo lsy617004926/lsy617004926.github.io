@@ -51,3 +51,32 @@
     font-weight: 700;
   }
 }
+
+/* dropdown submenus (navigation.yml "children") */
+.masthead__menu-item--dropdown {
+  position: relative;
+}
+.masthead__submenu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 30;
+  min-width: 13em;
+  margin: 0;
+  padding: 0.4em 0;
+  list-style: none;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.12);
+  li { display: block; margin: 0; }
+  a { display: block; padding: 0.35em 1em; white-space: nowrap; }
+  a:hover { background: #f2f3f3; }
+}
+.masthead__menu-item--dropdown:hover .masthead__submenu,
+.masthead__menu-item--dropdown:focus-within .masthead__submenu {
+  display: block;
+}
+/* in the collapsed (mobile) menu the parent link opens the landing page instead */
+.hidden-links .masthead__submenu { display: none !important; }
