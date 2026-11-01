@@ -20,7 +20,7 @@ Trackers
 ======
 
 - [**Finance JMP Tracker**](https://lsy617004926.github.io/finance-jmp-tracker/): what data finance job market papers use and which topics they cover.
-- [**Finance Paper Tracker**](https://lsy617004926.github.io/finance-paper-tracker/): research methods in every *JF*, *JFE* and *RFS* paper, with links to replication packages and online appendices.
+- [**Finance Paper Tracker**](https://lsy617004926.github.io/finance-paper-tracker/): every research paper in the top three finance journals since 2000, with links to replication packages and online appendices.
 - [**Economics Paper Tracker**](https://lsy617004926.github.io/economics-paper-tracker/): every research paper in the top five economics journals since 2000, with links to replication packages and online appendices.
 
 Public Goods
