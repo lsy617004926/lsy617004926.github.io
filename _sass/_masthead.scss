@@ -80,3 +80,11 @@
 }
 /* in the collapsed (mobile) menu the parent link opens the landing page instead */
 .hidden-links .masthead__submenu { display: none !important; }
+
+/* submenu items: stacked, normal weight, no underline animation (override .greedy-nav .visible-links li/a) */
+.greedy-nav .visible-links .masthead__submenu {
+  li { display: block; font-weight: normal; }
+  li:first-child { font-weight: normal; }
+  a { margin: 0; padding: 0.35em 1em; }
+  a:before { display: none; }
+}
