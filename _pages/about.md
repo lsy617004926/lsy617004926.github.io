@@ -45,4 +45,5 @@ My two cats, Lemon and Peach.
   <a href="/images/cats/cats-09.jpg"><img src="/images/cats/cats-09.jpg" alt="Napping in the window hammock" loading="lazy" style="width:100%;aspect-ratio:1;object-fit:cover;border-radius:4px;"></a>
   <a href="/images/cats/cats-10.jpg"><img src="/images/cats/cats-10.jpg" alt="Belly-up on a chair" loading="lazy" style="width:100%;aspect-ratio:1;object-fit:cover;border-radius:4px;"></a>
   <a href="/images/cats/cats-11.jpg"><img src="/images/cats/cats-11.jpg" alt="Stretched out on a chair cushion" loading="lazy" style="width:100%;aspect-ratio:1;object-fit:cover;border-radius:4px;"></a>
+  <a href="/images/cats/cats-12.jpg"><img src="/images/cats/cats-12.jpg" alt="Curled up in a box" loading="lazy" style="width:100%;aspect-ratio:1;object-fit:cover;border-radius:4px;"></a>
 </div>
