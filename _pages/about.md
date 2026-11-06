@@ -31,7 +31,7 @@ I keep a list of lecture notes and courses, mostly PhD-level, in finance, econom
 Cats
 ======
 
-My two cats.
+My two cats, Lemon and Peach.
 
 <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:8px;">
   <a href="/images/cats/cats-01.jpg"><img src="/images/cats/cats-01.jpg" alt="The two cats side by side on a desk" loading="lazy" style="width:100%;aspect-ratio:1;object-fit:cover;border-radius:4px;"></a>
