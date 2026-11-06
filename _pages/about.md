@@ -27,3 +27,22 @@ Public Goods
 ======
 
 I keep a list of lecture notes and courses, mostly PhD-level, in finance, economics and computer science that have helped me: [Public Goods](/public-goods/). All credit goes to the original authors.
+
+Cats
+======
+
+My two cats.
+
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:8px;">
+  <a href="/images/cats/cats-01.jpg"><img src="/images/cats/cats-01.jpg" alt="The two cats side by side on a desk" loading="lazy" style="width:100%;aspect-ratio:1;object-fit:cover;border-radius:4px;"></a>
+  <a href="/images/cats/cats-02.jpg"><img src="/images/cats/cats-02.jpg" alt="Napping together on a rug" loading="lazy" style="width:100%;aspect-ratio:1;object-fit:cover;border-radius:4px;"></a>
+  <a href="/images/cats/cats-03.jpg"><img src="/images/cats/cats-03.jpg" alt="Asleep together on the desk" loading="lazy" style="width:100%;aspect-ratio:1;object-fit:cover;border-radius:4px;"></a>
+  <a href="/images/cats/cats-04.jpg"><img src="/images/cats/cats-04.jpg" alt="Each in its own flower bed" loading="lazy" style="width:100%;aspect-ratio:1;object-fit:cover;border-radius:4px;"></a>
+  <a href="/images/cats/cats-05.jpg"><img src="/images/cats/cats-05.jpg" alt="Curled up together on a desk chair" loading="lazy" style="width:100%;aspect-ratio:1;object-fit:cover;border-radius:4px;"></a>
+  <a href="/images/cats/cats-06.jpg"><img src="/images/cats/cats-06.jpg" alt="Curled up together on a mat" loading="lazy" style="width:100%;aspect-ratio:1;object-fit:cover;border-radius:4px;"></a>
+  <a href="/images/cats/cats-07.jpg"><img src="/images/cats/cats-07.jpg" alt="Sprawled belly-up on the carpet" loading="lazy" style="width:100%;aspect-ratio:1;object-fit:cover;border-radius:4px;"></a>
+  <a href="/images/cats/cats-08.jpg"><img src="/images/cats/cats-08.jpg" alt="Sharing the cat tree" loading="lazy" style="width:100%;aspect-ratio:1;object-fit:cover;border-radius:4px;"></a>
+  <a href="/images/cats/cats-09.jpg"><img src="/images/cats/cats-09.jpg" alt="Napping in the window hammock" loading="lazy" style="width:100%;aspect-ratio:1;object-fit:cover;border-radius:4px;"></a>
+  <a href="/images/cats/cats-10.jpg"><img src="/images/cats/cats-10.jpg" alt="Belly-up on a chair" loading="lazy" style="width:100%;aspect-ratio:1;object-fit:cover;border-radius:4px;"></a>
+  <a href="/images/cats/cats-11.jpg"><img src="/images/cats/cats-11.jpg" alt="Stretched out on a chair cushion" loading="lazy" style="width:100%;aspect-ratio:1;object-fit:cover;border-radius:4px;"></a>
+</div>
